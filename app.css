@@ -1,0 +1,21 @@
+body{
+	background-color: gray;
+}
+
+.intro{
+	
+}
+
+.button{
+	background-color: green;
+	border: none;
+	padding: 15px 25px;
+	color: white;
+	text-align: center;
+	text-decoration :none;
+	display: inline-block;
+	font-size: 15px;
+	margin: 4px 2px;
+	cursor: pointer;
+	position:relative;
+}
